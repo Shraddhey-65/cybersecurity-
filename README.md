@@ -56,12 +56,5 @@ notes/
 ## Certifications
 - HP LIFE: Introduction to Cybersecurity Awareness
 
-## Repository Structure
 
-notes/
-├── owasp-top10.md
-├── cors-security.md
-├── cookies-and-sessions.md
-├── reconnaissance-methodology.md
-└── security-assessment-case-study.md
 
